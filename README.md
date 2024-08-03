@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rishikr2004
 - 👀 I’m interested in ... full stack development
-- 🌱 I’m currently learning ... 
-- 💞️ I’m looking to collaborate on ... MERN stack
+- 🌱 I’m currently learning ... MERN stack development
+- 💞️ I’m looking to collaborate with ... any tech company for front-end development
 - 📫 How to reach me ... rishikr2004@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
